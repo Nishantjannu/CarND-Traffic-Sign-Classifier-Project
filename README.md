@@ -33,7 +33,7 @@ The goals / steps of this project are the following:
 [image13]: ./writeup_images/11.jpg
 [image14]: ./writeup_images/11_visual.png
 [image15]: ./writeup_images/random_pic.jpeg
-[image16]: ./writeup_images/1Random_visual.png
+[image16]: ./writeup_images/Random_visual.png
 [image17]: ./writeup_images/Softmax1.png
 [image18]: ./writeup_images/Softmax1.png
 [image19]: ./writeup_images/Softmax1.png
@@ -50,7 +50,7 @@ The goals / steps of this project are the following:
 
 #### 1. Provide a Writeup / README that includes all the rubric points and how you addressed each one. You can submit your writeup as markdown or pdf. You can use this template as a guide for writing the report. The submission includes the project code.
 
-You're reading it! and here is a link to my [project code](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb)
+You're reading it! and here is a link to my [project code](https://github.com/Nishantjannu/CarND-Traffic-Sign-Classifier-Project.git)
 
 
 
